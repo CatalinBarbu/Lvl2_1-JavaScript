@@ -1,0 +1,11 @@
+.button {
+  background-color: darkorange;
+  font-size: 40px;
+}
+body {
+  text-align: center;
+}
+button {
+  margin: auto 0;
+  padding: 20px;
+}
